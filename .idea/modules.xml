@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/javaReLearning.iml" filepath="$PROJECT_DIR$/.idea/javaReLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/não_mexer_intellij/javaReLearning.iml" filepath="$PROJECT_DIR$/não_mexer_intellij/javaReLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos/projetos.iml" filepath="$PROJECT_DIR$/projetos/projetos.iml" />
     </modules>
   </component>
 </project>
