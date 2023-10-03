@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07348330-b199-4d71-a6ed-6c574b7929fe" name="Changes" comment="">
+    <list default="true" id="07348330-b199-4d71-a6ed-6c574b7929fe" name="Changes" comment="first commit in intellij">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projetos/PrimeiraClasse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projetos/PrimeiraClasse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/src/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/src/QuardaClasseDesafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/src/QuardaClasseDesafio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;uLuizFelipe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5f00cb57-337a-46a5-94a2-d3233c15b4c1" />
+        <option name="url" value="https://github.com/uLuizFelipe/javaReLearning.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,6 +49,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2W2t3CNbmgpstDpNJDHde3k9qqx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +63,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tgrim/OneDrive/Documentos/GitHub/javaReLearning&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tgrim/OneDrive/Documentos/GitHub/ds-2023-02&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -86,6 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1695942300852</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit in intellij">
+      <option name="closed" value="true" />
+      <created>1695991520664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695991520664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit in intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit in intellij" />
   </component>
 </project>
